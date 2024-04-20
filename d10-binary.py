@@ -1,5 +1,4 @@
-my_file = open("d10", r)
-my_file = str(my_file)
+my_file = str(open("d10", r))
 
 my_binary_output = ""
   
